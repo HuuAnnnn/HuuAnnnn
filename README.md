@@ -9,7 +9,7 @@
 ###
 
 <p align="left">
-    <b> I am a recent graduate from Vietnam with a passion for academic research. My main research field is Graph Neural Networks (GNNs) and their application to handle real-world problems. I am particularly interested in the class of problems related to Spatio-Temporal.</b>
+    <b> Hello, my name is Nguyen Huu An, and this is my website. I am currently a Teaching Assistant in the Faculty of Information Technology at Ton Duc Thang University. I received my Bachelor's degree in Computer Networks and Data Communication from Ton Duc Thang University in September 2024. I am pursuing a Master's degree at the same institution. I am also a researcher with primary interests in Graph Neural Networks, Spatio-Temporal problems, and Traffic forecasting in Intelligent Transportation Systems.</b>
 </p>
 
 ###
@@ -19,8 +19,11 @@
 ###
 
 **Email**: [nguyenhuuan.it@gmail.com](nguyenhuuan.it@gmail.com) <br>
+**Google Scholar**: [Nguyen-Huu An](https://scholar.google.com/citations?user=36V1BG4AAAAJ) <br>
+**ORCID**: [0009-0009-3001-691](https://orcid.org/0009-0009-3001-6912) <br>
+**ResearcherID**: LOR-1782-2024 <br>
 **LinkedIn** : [An Nguyễn Hữu](https://www.linkedin.com/in/nguyenhuuan-it/)<br>
-**Kaggle**: [annnnguyen](https://www.kaggle.com/annnnguyen) <br>
+**GG site** : [An Nguyễn Hữu](https://sites.google.com/view/nguyen-huu-an/homepage) <br>
 ###
 
 <h2 align="left">Education</h2>
@@ -56,39 +59,6 @@
 + Spatio-Temporal Graph Neural Networks<br>
 + Traffic Forecasting<br>
 + Hypergraph</p>
-
-###
-
-<h2 align="left">Technologies</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
-
-###
-
-<h2 align="left">Certificates</h2>
-
-###
-
->- 25/12/2021: [TryHackMe ADC Certification](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HKVVJOIWJA.png)
->- 29/12/2022: [Hackerank Certification](https://hackerrank.com/certificates/c3963cfc95f1)
->- 11/04/2023: [Couresa - Introduction to Artificial Intelligence (AI)](https://www.coursera.org/account/accomplishments/certificate/PT7XSFWLJVH9)
->- 15/05/2023: [Techbase - Agile Scrum ceritificates](./certificates/TechBase%20Certificate_1.jpg)
 
 ###
 
