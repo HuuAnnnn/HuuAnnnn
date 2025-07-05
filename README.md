@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align="left">"A little scorpion explores the universe in pursuit of extraordinary discoveries"</h4>
+<h4 align="left">"Those who can’t wield a second blade aren’t fit to be assassins"</h4>
 
 ###
 
@@ -21,7 +21,6 @@
 **Email**: [nguyenhuuan.it@gmail.com](nguyenhuuan.it@gmail.com) <br>
 **LinkedIn** : [An Nguyễn Hữu](https://www.linkedin.com/in/nguyenhuuan-it/)<br>
 **Kaggle**: [annnnguyen](https://www.kaggle.com/annnnguyen) <br>
-**CV**: [Nguyen Huu An](https://anpersonal.helprange.com/view/d2e3757407304cc5afe1098b8b4fe6504fc5813299a148a1a7ad444c97badcec/nguyenhuuan.it@gmail.com_CV) <br>
 ###
 
 <h2 align="left">Education</h2>
