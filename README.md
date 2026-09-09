@@ -94,10 +94,7 @@ I focus on developing lightweight and effective neural architectures that can ca
 
 ## GitHub Signal
 
-<div align="center">
-<img width="72%" src="https://github-readme-activity-graph.vercel.app/graph?username=HuuAnnnn&bg_color=transparent&color=6B7280&line=BE123C&point=7F1D1D&area=true&hide_border=true" alt="Contribution activity graph" />
-
-</div>
+![huuannnn's animated GitHub stats — ufo](https://aisq.dev/api/github-stats/huuannnn?style=ufo)
 
 ---
 
